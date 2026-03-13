@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "星くずのうた",
+  "base_artist": "Guiano",
+  "createdAt": "2026-03-13T11:38:26.431650Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星くずのうた",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_星くずのうた_Guiano.txt"
+    }
+  ]
+}
